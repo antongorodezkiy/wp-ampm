@@ -1,4 +1,7 @@
-wp-ampm
+Wordpress AM/PM Plugin
 =======
 
-Small snippet to force wordpress to use am/pm time format in dashboard
+Plugin replaces the standard time controls (24h) with am/pm time controls
+
+
+More info (ru): http://eduard.kozachek.net/projects/wp-ampm/
