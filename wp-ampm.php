@@ -3,7 +3,7 @@
 	Plugin Name: Wordpress AM/PM Plugin
 	Plugin URI: http://eduard.kozachek.net/projects/wp-ampm/
 	Description: Plugin replaces the standard time controls (24h) with am/pm time controls
-	Version: 1.0.0
+	Version: 1.0.1
 	Author: antongorodezkiy
 	Author URI: http://eduard.kozachek.net/
 	License: GPLv2
